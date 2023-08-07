@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l 3 /etc/passwd
+wc -l 3 icata
