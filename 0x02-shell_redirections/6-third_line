@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l 2 icata
+head -n 2 icata | tail -n 1
