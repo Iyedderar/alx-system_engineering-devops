@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 2 icata | tail -n 1 icata
+cat icata | head -3 | tail -1
