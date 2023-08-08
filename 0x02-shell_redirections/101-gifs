@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name '*.gif' | sed 's#.*/##; s#[.][^.]*$##' | sort -Vf
